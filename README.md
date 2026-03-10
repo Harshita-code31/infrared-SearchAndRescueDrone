@@ -32,6 +32,7 @@ The code is optimized to run on Google Colab (Free T4 GPU Tier).
 3. Install dependencies by running the first cell (!pip install -r requirements.txt).
 4. Run the 'Prediction/Inference' cell to generate the output video.
 
+project demo: https://drive.google.com/drive/folders/1C3bZe5IubyjkM1LYkT8XDlm-8T7SG-zD?usp=sharing
 -------------------------------------------------------------------------
 TECHNICAL HIGHLIGHTS
 -------------------------------------------------------------------------
